@@ -1,24 +1,38 @@
-class pattern{
+public class pattern {
     public static void main(String[] args) {
-        int n=5;
-        for (int i = n; i >= 1; i--) {
-            for (int j = 1; j <= i; j++) {
-                System.out.print("* ");
-            }
-            System.out.println();
-    }
-    for (int i = 1; i <= n; i++) {
 
-            // loop to print the number of spaces before the star
-            for (int j = n; j >= i; j--) {
+        int rows = 5;
+
+        // upper pyramid
+        for (int i = 1; i <= rows; i++) {
+
+            // spaces
+            for (int j = rows - 1; j >= i; j--) {
                 System.out.print(" ");
             }
 
-            // loop to print the number of stars in each row
+            // stars
             for (int j = 1; j <= i; j++) {
                 System.out.print("* ");
             }
+
             System.out.println();
+        }
+
+        // lower pyramid
+        for (int i = rows - 1; i >= 1; i--) {
+
+            // spaces
+            for (int space = 0; space < rows - i; space++) {
+                System.out.print(" ");
+            }
+
+            // stars
+            for (int star = 1; star <= i; star++) {
+                System.out.print("* ");
+            }
+
+            System.out.println();
+        }
     }
-}
 }
