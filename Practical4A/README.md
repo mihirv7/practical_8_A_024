@@ -1,49 +1,85 @@
-# Cloud Computing with DevOps Practical
+<h1 align="center">🌐 Cloud Computing with DevOps Practical</h1>
 
-## 👨‍🎓 Student Information
-- Name: Mihir Vaidya
-- Enrollment No: (202504104610024)
-- Practical: 5.1A
+<hr>
 
-## 📌 Project Title
-Java Programs - Pattern & Number Logic
+<h2>📋 Students Information</h2>
 
-## 📖 Description
-This project contains Java programs such as:
-- Even Numbers
-- Full Alphabet Pyramid
-- Inverted Right Half Pyramid
+<table border="1" cellpadding="10">
+<tr>
+<th>Name</th>
+<th>Enrollment Number</th>
+<th>Practical Set</th>
+</tr>
 
-These programs demonstrate logic building and pattern printing.
+<tr>
+<td>Mihir Vaidya</td>
+<td>202504104610024</td>
+<td>5.1A</td>
+</tr>
+</table>
 
-## ⚙️ Requirements
-- Java JDK 17
-- VS Code / IntelliJ IDEA
-- Windows OS
+<hr>
 
-## 🚀 How to Run
+<h2>🏫 Logos</h2>
 
-1. Compile program:
+<img src="screenshots/output1.jpeg" width="150">
+<img src="screenshots/output2.jpeg" width="150">
+
+<hr>
+
+<h2>📚 Subject</h2>
+<p>Cloud Computing with DevOps</p>
+
+<hr>
+
+<h2>📌 Practical Overview</h2>
+<p>
+This repository contains Java programs demonstrating pattern printing and number logic.
+It includes proper documentation, screenshots, and execution steps.
+</p>
+
+<hr>
+
+<h2>⚙️ Requirements</h2>
+<ul>
+<li>Java JDK 17</li>
+<li>VS Code / IntelliJ IDEA</li>
+<li>Windows OS</li>
+</ul>
+
+<hr>
+
+<h2>🚀 How to Run</h2>
+
+<h3>Compile</h3>
+<pre>
 javac EvenNumbers.java
 javac FullAlphabetPyramid.java
 javac InvertedRightHalf.java
+</pre>
 
-
-2. Run program:
+<h3>Run</h3>
+<pre>
 java EvenNumbers
 java FullAlphabetPyramid
 java InvertedRightHalf
+</pre>
 
-## 📸 Screenshots
+<hr>
 
-(Add your screenshots here)
+<h2>📸 Screenshots</h2>
 
-Example:
-Output : 1
-![Output](screenshots/output1.jpeg)
-Output : 2
-![Output](screenshots/output2.jpeg)
+<h3>Output 1</h3>
+<img src="screenshots/output1.jpeg" width="500">
 
-## 📝 Notes
-- Ensure Java is installed
-- Run commands in terminal
+<h3>Output 2</h3>
+<img src="screenshots/output2.jpeg" width="500">
+
+<hr>
+
+<h2>📝 Notes</h2>
+<ul>
+<li>Ensure Java is installed</li>
+<li>Run commands in terminal</li>
+<li>Keep project folder clean</li>
+</ul>
