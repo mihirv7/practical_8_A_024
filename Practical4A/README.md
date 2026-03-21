@@ -40,42 +40,6 @@ It includes proper documentation, screenshots, and execution steps.
 
 <hr>
 
-<h2>⚙️ Requirements</h2>
-<ul>
-<li>Java JDK 17</li>
-<li>VS Code / IntelliJ IDEA</li>
-<li>Windows OS</li>
-</ul>
-
-<hr>
-
-<h2>🚀 How to Run</h2>
-
-<h3>Compile</h3>
-<pre>
-javac EvenNumbers.java
-javac FullAlphabetPyramid.java
-javac InvertedRightHalf.java
-</pre>
-
-<h3>Run</h3>
-<pre>
-java EvenNumbers
-java FullAlphabetPyramid
-java InvertedRightHalf
-</pre>
-
-<hr>
-
-<h2>📸 Screenshots</h2>
-
-<h3>Output 1</h3>
-<img src="screenshots/output1.jpeg" width="500">
-
-<h3>Output 2</h3>
-<img src="screenshots/output2.jpeg" width="500">
-
-<hr>
 
 <h2>📝 Notes</h2>
 <ul>
