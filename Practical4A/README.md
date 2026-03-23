@@ -47,3 +47,19 @@ It includes proper documentation, screenshots, and execution steps.
 <li>Run commands in terminal</li>
 <li>Keep project folder clean</li>
 </ul>
+
+<hr>
+
+<h2>📸 Screenshots</h2>
+
+<h4>Hello Docker</h4>
+<img src="screenshots/hellodocker.png" width="150">
+
+<h4>Docker PS</h4>
+<img src="screenshots/psoutput.png" width="150">
+
+<h4>n8n Runnning</h4>
+<img src="screenshots/n8nrun.png" width="150">
+
+<h4>n8n Interface</h4>
+<img src="screenshots/n8ninterface.png" width="150">
